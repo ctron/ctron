@@ -4,6 +4,8 @@
 
 * Involed in Eclipse IoT
 * Rust fanboy
+* Doing Open Source
+* Playing Minecraft
 
 ## 📫 Contact
 
