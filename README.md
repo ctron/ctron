@@ -1,5 +1,3 @@
-# Jens Reimann
-
 *Working on open source cloud scale IoT messaging*
 
 ## 💡 Interests
