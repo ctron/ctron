@@ -9,10 +9,10 @@
 
 ## 📫 Contact
 
-:bird: [@ctron](https://twitter.com/ctron) ꞏ
-:octocat: [@ctron](https://github.com/ctron) ꞏ
-:incoming_envelope: ctron@dentrassi.de ꞏ
-:link:  https://dentrassi.de
+:bird:&nbsp;[@ctron](https://twitter.com/ctron) ꞏ
+:octocat:&nbsp;[@ctron](https://github.com/ctron) ꞏ
+:incoming_envelope:&nbsp;ctron@dentrassi.de ꞏ
+:link:&nbsp;https://dentrassi.de
 
 <!--
 **ctron/ctron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
