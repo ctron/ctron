@@ -1,4 +1,4 @@
-*Working on open source cloud scale IoT messaging*
+*Working on open source, cloud scale IoT messaging*
 
 ## 💡 Interests
 
@@ -9,10 +9,8 @@
 
 ## 📫 Contact
 
-:bird: [@ctron](https://twitter.com/ctron) ꞏ
-:octocat: [@ctron](https://github.com/ctron) ꞏ
-:incoming_envelope: ctron@dentrassi.de ꞏ
-:link: https://dentrassi.de
+| :bird: [@ctron](https://twitter.com/ctron) | :octocat: [@ctron](https://github.com/ctron) | :incoming_envelope: ctron@dentrassi.de | :link: https://dentrassi.de |
+|-|-|-|-|
 
 <!--
 **ctron/ctron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
