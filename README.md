@@ -11,7 +11,7 @@
 * Enjoying Open Source
 * Playing Minecraft
 
-<a rel="me" href="https://mastodon.dentrassi.de/@ctron"></a>
+<link rel="me" href="https://mastodon.dentrassi.de/@ctron"/>
 
 <!--
 **ctron/ctron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
