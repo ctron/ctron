@@ -1,4 +1,4 @@
-*Working on open source, cloud scale IoT messaging*
+*Working on open source, software supply chain topics*
 
 ## 📫 Contact
 
@@ -9,7 +9,8 @@
 * Rust fanboy
 * Involved in Eclipse IoT
 * Enjoying Open Source
-* Playing Minecraft
+* Tinkering with Rust and WebAssemly
+* Playing Minecraft, and more
 
 <link rel="me" href="https://mastodon.dentrassi.de/@ctron"/>
 
